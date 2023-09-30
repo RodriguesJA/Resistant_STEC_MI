@@ -24,7 +24,7 @@ Sequences are available at BioProjects PRJNA596289, PRJNA514245, PRJNA218110 and
 ## Bioinformatics Drawing: 
 Please see the incredibly artistic flow chart below! Wow! This flowchart has a step-by-step breakdown of the bioinformatics pipeline, including the software used, inputs, outputs, and specific files for this publication. 
 
-![An incredibly artistic cartoon drawing of the bioinformatic methods of which the description can be found in Mukherjee et al., 20221](bioinformatics_drawing_STEC_MI.png)
+![An incredibly artistic cartoon drawing of the bioinformatic methods of which the description can be found in Mukherjee et al., 20221](bioinformatics_drawing_STEC.png)
 
 ## Software Repositories, Resources, and Tools used in this project:
 - [ABRICATE](https://github.com/tseemann/abricate)
