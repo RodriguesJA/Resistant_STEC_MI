@@ -42,7 +42,7 @@ Please see the incredibly artistic flow chart below! Wow! This flowchart has a s
 - [SPAdes](https://github.com/ablab/spades)
 - [StarAMR](https://github.com/phac-nml/staramr)
 - [Trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic)
-- [Whitham MLST Scheme](https://ieeexplore.ieee.org/abstract/document/1332482?casa_token=RMtJfO_s2FEAAAAA:iETIMQvH0G0SduUtO8o0XEOps0fHNIeO8vQ2prjJwTqUY-z1t1trA_0FvdXdzt9q_0gak6A)
+- [Whittham MLST Scheme](https://ieeexplore.ieee.org/abstract/document/1332482?casa_token=RMtJfO_s2FEAAAAA:iETIMQvH0G0SduUtO8o0XEOps0fHNIeO8vQ2prjJwTqUY-z1t1trA_0FvdXdzt9q_0gak6A)
 
 
 
